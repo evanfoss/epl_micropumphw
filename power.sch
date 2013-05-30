@@ -1,0 +1,69 @@
+v 20121123 2
+C 40000 40000 0 0 0 title-E.sym
+C 52700 58000 1 0 0 switch-spst-1.sym
+{
+T 53100 58700 5 10 0 0 0 0 1
+device=SPST
+T 53100 58700 5 10 1 1 0 3 1
+refdes=S1
+T 53100 58500 5 10 1 1 0 3 1
+comment=Power
+T 53100 58300 5 10 1 1 0 3 1
+footprint=C&K-AYZ0102AGRLC
+}
+C 59000 57500 1 0 1 connector2-1.sym
+{
+T 58800 58500 5 10 0 0 0 6 1
+device=CONNECTOR_2
+T 59000 58700 5 10 1 1 0 6 1
+refdes=CONN2
+T 59000 58500 5 10 1 1 0 6 1
+footprint=ACY500P
+T 59000 58300 5 10 1 1 0 6 1
+comment=Battery Connector
+}
+C 56500 58000 1 0 1 fuse-1.sym
+{
+T 56300 58400 5 10 0 0 0 6 1
+device=FUSE
+T 56100 58800 5 10 1 1 0 3 1
+refdes=F1
+T 56300 58600 5 10 0 0 0 6 1
+symversion=0.1
+T 56100 58400 5 10 1 1 0 3 1
+footprint=1206
+T 56100 58600 5 10 1 1 0 3 1
+value=0.1A PTC
+T 56100 58200 5 10 1 1 0 3 1
+model-name=07CA0010FF2E
+}
+C 50800 58800 1 0 0 5V-plus-1.sym
+C 54600 55400 1 0 1 gnd-1.sym
+C 54300 57400 1 270 0 capacitor-1.sym
+{
+T 55000 57200 5 10 0 0 270 0 1
+device=CAPACITOR
+T 54200 57200 5 10 1 1 0 6 1
+refdes=C2
+T 55200 57200 5 10 0 0 270 0 1
+symversion=0.1
+T 54200 57000 5 10 1 1 0 6 1
+value=10uF
+T 54200 56800 5 10 1 1 0 6 1
+footprint=1206
+T 54200 56600 5 10 1 1 0 6 1
+model-name=C1206C106J8RACTU
+}
+N 54500 56500 54500 55700 4
+N 53500 58000 55600 58000 4
+N 54500 58000 54500 57400 4
+N 57300 58000 56500 58000 4
+N 57300 57700 57000 57700 4
+N 57000 57700 57000 56000 4
+N 57000 56000 54500 56000 4
+N 51000 58800 51000 58000 4
+N 51000 58000 52700 58000 4
+T 51500 55000 9 10 1 0 0 2 3
+Note: The switch (S1) is after the capacitor (C1) because the inrush current for it would remove the 
+gold plating on the small power switch and over time destroy it.
+-EEF

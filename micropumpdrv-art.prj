@@ -1,0 +1,4 @@
+elements-dir ./foot
+schematics micropumpdrv.sch power.sch hidden-magic.sch
+output-name micropumpdrv-art
+gsch2pcb:use-m4:            yes
