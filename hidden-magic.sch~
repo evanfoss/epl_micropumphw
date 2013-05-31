@@ -1,2 +1,9 @@
 v 20121123 2
 C 40000 40000 0 0 0 title-E.sym
+C 61800 60300 1 0 0 box-NoPins-1.sym
+{
+T 61800 61100 5 10 1 1 0 0 1
+refdes=BOX1
+T 61800 60900 5 10 1 1 0 0 1
+footprint=backpackpcb_outline_max.fp
+}
