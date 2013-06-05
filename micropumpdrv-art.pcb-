@@ -5,8 +5,8 @@ FileVersion[20100606]
 
 PCB["" 210000 156000]
 
-Grid[100.0 0 0 1]
-Cursor[203800 156000 0.000000]
+Grid[500.0 0 0 1]
+Cursor[59000 0 0.000000]
 PolyArea[200000000.000000]
 Thermal[0.500000]
 DRC[1000 1000 1000 1000 1500 1000]
@@ -1229,6 +1229,10 @@ Layer(5 "silk")
 )
 Layer(6 "silk")
 (
+	Text[66500 17500 0 100 "Eaton Peabody Lab" "clearline"]
+	Text[66500 25000 0 100 "Evan E.F. & Ishmael S.W." "clearline"]
+	Text[66500 31000 0 100 "Microfluidic Pump Driver" "clearline"]
+	Text[66500 37500 0 100 "2013.06.05" "clearline"]
 )
 NetList()
 (
