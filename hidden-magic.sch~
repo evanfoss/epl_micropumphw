@@ -7,3 +7,17 @@ refdes=BOX1
 T 61800 60900 5 10 1 1 0 0 1
 footprint=backpackpcb_outline_max.fp
 }
+T 83900 40100 14 8 1 0 0 6 1
+DESIGNED BY: IJS, EEF
+T 78500 40100 14 8 1 0 0 0 1
+3
+T 77000 40100 14 8 1 0 0 0 1
+3
+T 76900 40400 14 8 1 0 0 0 1
+hidden-magic.sch
+T 77000 40700 14 8 1 0 0 0 1
+Hidden Magic
+T 80900 40100 14 8 1 0 0 0 1
+EEF
+T 80800 40400 14 8 1 0 0 0 1
+2013_05_31
