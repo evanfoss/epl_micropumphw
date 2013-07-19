@@ -14,6 +14,15 @@ ChangePinName(CONN2, 2, 2)
 ChangePinName(S1, 1, 1)
 ChangePinName(S1, 2, 2)
 
+# Start of element R3
+ChangePinName(R3, 1, 1)
+ChangePinName(R3, 3, 3)
+ChangePinName(R3, 2, 2)
+
+# Start of element R6
+ChangePinName(R6, 1, 1)
+ChangePinName(R6, 2, 2)
+
 # Start of element LED1
 ChangePinName(LED1, 3, K)
 ChangePinName(LED1, 1, A)
@@ -32,11 +41,6 @@ ChangePinName(R5, 2, 2)
 ChangePinName(S3, 3, 3)
 ChangePinName(S3, 2, 2)
 ChangePinName(S3, 1, 1)
-
-# Start of element R3
-ChangePinName(R3, 1, 1)
-ChangePinName(R3, 2, 2)
-ChangePinName(R3, 3, 3)
 
 # Start of element S2
 ChangePinName(S2, 1, INB_2)
