@@ -18,8 +18,10 @@
 ;Paper size here is letter not A4
 ;(paper-size 11 8.5) ; letter
 
+(define default-titleblock "title-C.sym")
+
 (paper-size 17.0 11.0)
-(define default-titleblock "title-E.sym")
+;(define default-titleblock "title-E.sym")
 
 ;(output-color "enabled")      ; for color postscript output
 

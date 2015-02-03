@@ -67,3 +67,17 @@ T 51500 55000 9 10 1 0 0 2 3
 Note: The switch (S1) is after the capacitor (C1) because the inrush current for it would remove the 
 gold plating on the small power switch and over time destroy it.
 -EEF
+T 83900 40100 14 8 1 0 0 6 1
+DESIGNED BY: IJS, EEF
+T 78500 40100 14 8 1 0 0 0 1
+3
+T 77000 40100 14 8 1 0 0 0 1
+2
+T 76900 40400 14 8 1 0 0 0 1
+power.sch
+T 77000 40700 14 8 1 0 0 0 1
+Power
+T 80900 40100 14 8 1 0 0 0 1
+EEF
+T 80800 40400 14 8 1 0 0 0 1
+2013_05_31
