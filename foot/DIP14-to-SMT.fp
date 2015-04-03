@@ -1,0 +1,25 @@
+
+Element["" "" "DIP?" "" 2600.00mil 1450.00mil -50.00mil -420.00mil 0 100 ""]
+(
+	Pad[-150.00mil -300.00mil -150.00mil -300.00mil 60.00mil 20.00mil 80.00mil "" "1" ""]
+	Pad[-150.00mil -200.00mil -150.00mil -200.00mil 60.00mil 20.00mil 80.00mil "" "2" ""]
+	Pad[-150.00mil -100.00mil -150.00mil -100.00mil 60.00mil 20.00mil 80.00mil "" "3" ""]
+	Pad[-150.00mil 0.0000 -150.00mil 0.0000 60.00mil 20.00mil 80.00mil "" "4" ""]
+	Pad[-150.00mil 100.00mil -150.00mil 100.00mil 60.00mil 20.00mil 80.00mil "" "5" ""]
+	Pad[-150.00mil 200.00mil -150.00mil 200.00mil 60.00mil 20.00mil 80.00mil "" "6" ""]
+	Pad[-150.00mil 300.00mil -150.00mil 300.00mil 60.00mil 20.00mil 80.00mil "" "7" ""]
+	Pad[150.00mil 300.00mil 150.00mil 300.00mil 60.00mil 20.00mil 80.00mil "" "8" "edge2"]
+	Pad[150.00mil 200.00mil 150.00mil 200.00mil 60.00mil 20.00mil 80.00mil "" "9" "edge2"]
+	Pad[150.00mil 100.00mil 150.00mil 100.00mil 60.00mil 20.00mil 80.00mil "" "10" "edge2"]
+	Pad[150.00mil 0.0000 150.00mil 0.0000 60.00mil 20.00mil 80.00mil "" "11" "edge2"]
+	Pad[150.00mil -100.00mil 150.00mil -100.00mil 60.00mil 20.00mil 80.00mil "" "12" "edge2"]
+	Pad[150.00mil -200.00mil 150.00mil -200.00mil 60.00mil 20.00mil 80.00mil "" "13" "edge2"]
+	Pad[150.00mil -300.00mil 150.00mil -300.00mil 60.00mil 20.00mil 80.00mil "" "14" "edge2"]
+	ElementLine [-200.00mil -350.00mil -200.00mil 350.00mil 10.00mil]
+	ElementLine [-200.00mil 350.00mil 200.00mil 350.00mil 10.00mil]
+	ElementLine [200.00mil 350.00mil 200.00mil -350.00mil 10.00mil]
+	ElementLine [-200.00mil -350.00mil -50.00mil -350.00mil 10.00mil]
+	ElementLine [50.00mil -350.00mil 200.00mil -350.00mil 10.00mil]
+	ElementArc [0.0000 -350.00mil 50.00mil 50.00mil 0 180 10.00mil]
+
+	)
