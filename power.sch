@@ -18,7 +18,7 @@ device=CONNECTOR_2
 T 55500 51200 5 10 1 1 0 6 1
 refdes=CONN2
 T 55500 51000 5 10 1 1 0 6 1
-footprint=ACY500P
+footprint=ACY100P
 T 55500 50800 5 10 1 1 0 6 1
 comment=Battery Connector
 }

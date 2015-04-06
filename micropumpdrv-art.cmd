@@ -1,5 +1,7 @@
 # Pin name action command file
 
+# Start of element BAT1
+
 # Start of element CONN3
 ChangePinName(CONN3, 4, SHEILD)
 ChangePinName(CONN3, 2, SHELL)
