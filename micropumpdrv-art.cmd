@@ -1,6 +1,14 @@
 # Pin name action command file
 
+# Start of element unlisted_socketU2
+
+# Start of element unlisted_socketU1
+
 # Start of element BAT1
+
+# Start of element CONN4
+ChangePinName(CONN4, 1, 1)
+ChangePinName(CONN4, 2, 2)
 
 # Start of element CONN3
 ChangePinName(CONN3, 4, SHEILD)

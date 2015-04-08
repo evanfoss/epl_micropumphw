@@ -21,3 +21,17 @@ refdes=BAT1
 T 50800 50700 5 10 1 1 0 0 1
 footprint=Tenergy-602025
 }
+C 49000 48700 1 0 0 box-NoPins-1.sym
+{
+T 49000 49500 5 10 1 1 0 0 1
+refdes=unlisted_socketU1
+T 49000 49300 5 10 1 1 0 0 1
+comment=Preci-Dip 114-87-308-41-117101
+}
+C 50900 47900 1 0 0 box-NoPins-1.sym
+{
+T 50900 48700 5 10 1 1 0 0 1
+refdes=unlisted_socketU2
+T 50900 48500 5 10 1 1 0 0 1
+comment=Preci-Dip 114-87-314-41-117101
+}
