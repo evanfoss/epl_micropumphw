@@ -87,7 +87,7 @@ The added holes in the PCB are for a few reasons. The center hole is for a thumb
 |:---------------
 |PCBA2: Bottom of the PCBA with the same objects around it for scale.
 
-|<a href="images/photos/p1000564_15108454826_o.jpg"><img src="images/photos/p1000564_15108454826_o.jpg"></a>
+|<a href="images/photos/p1000563_15108455186_o.jpg"><img src="images/photos/p1000563_15108455186_o.jpg"></a>
 |:---------------
 |PCBA3: Assembled device viewed from the top
 
