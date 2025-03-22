@@ -38,6 +38,8 @@ Note: The CAD drawings for the 3D printed case are lost to history is the name o
 
 ## Printed Circuit Board Layout
 
+<a href="images/micropumpdrv-art.old.png"><img src="images/micropumpdrv-art.old.png"></a>
+
 <a href="images/micropumpdrv-art.png"><img src="images/micropumpdrv-art.png"></a>
 
 ## Future
