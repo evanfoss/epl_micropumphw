@@ -13,7 +13,15 @@ I would like to thank Dianna Sands for the suggestion of using a balloon as the 
 
 ## Specifications
 
-It had to fit in a very small package, operate for over a week on a battery charge, and it had to be able to quietly move the fluid. Perhaps the most important requirement was that the fluid flow rate and pressure not vary with battery state of charge.
+* Small size
+* Low weight
+* Long battery life (+1 Week)
+* Rechargable batteries
+* Consisten flow rate and pressure over whole operating life
+* Status indicator LEDs
+* Pushbutton to prime fluid lines
+* 2 Position switch to set operating mode (optional)
+* Potentiometer to set flow rate (optional)
 
 # Development
 
@@ -32,15 +40,51 @@ Note: The CAD drawings for the 3D printed case are lost to history is the name o
 
 ## Circuit Design
 
-<a href="images/micropumpdrv.png"><img src="images/micropumpdrv.png"></a>
+|<a href="images/micropumpdrv.png"><img src="images/micropumpdrv.png"></a>
+|:---------------
+|Sch1: micropumpdrv.sch
 
-<a href="images/power.png"><img src="images/power.png"></a>
+The device is based around the Bartels <a href="https://bartels-mikrotechnik.de/wp-content/uploads/2025/03/mp6-accessories-Catalogue-v1.11.pdf">microfluidic pump</a> that is piezo electric. The <a href="https://www.servoflo.com/images/PDF/mp6-oem-manual.pdf">pump driver</a> had an integrated DC/DC converter.
+
+The wide operating voltage of the pump driver's DC/DC converter and the microcontroller's wide operating voltage the whole circuit can run off battery without any added voltage regulation.
+
+The LED's and the pump are connected to output lines on the microcontroller. The switches are connected to inputs. Debounce of the switch is handled in firmware.
+
+The pump driver module configuration is inspired by page 10 of the datasheet. Speed is set by the pulse train from the microcontroller output.
+
+|<a href="images/power.png"><img src="images/power.png"></a>
+|:---------------
+|Sch2: power.sch
+
+The power supply is just a fuse, on/off switch, and a fuse.
 
 ## Printed Circuit Board Layout
 
-<a href="images/micropumpdrv-art.old.png"><img src="images/micropumpdrv-art.old.png"></a>
+|<a href="images/micropumpdrv-art.old.png"><img src="images/micropumpdrv-art.old.png"></a>
+|:---------------
+|PCB1: Rendering of the 2nd version of the device. This was the first wearable version.
 
-<a href="images/micropumpdrv-art.png"><img src="images/micropumpdrv-art.png"></a>
+The 1st version of the layout shown in PCB1 had a bug that shorted the +V rail to ground but this was fixed later. As it was the board still technically worked but with a very short battery life (1day vs +1week).
+
+|<a href="images/micropumpdrv-art.png"><img src="images/micropumpdrv-art.png"></a>
+|:---------------
+|PCB2: Rendering of the 3rd version of the device.
+
+PCB2 is the last designed version. The PCB was fabricated and an enclosure made but work stopped there.
+
+The denser layout of PCB2 was made possible by the DIP sockets that are SMT mounting. This makes using both sides of the PCB much simpler but it means the PCB basically must be hand populated.
+
+The added holes in the PCB are for a few reasons. The center hole is for a thumb screw that was meant to go into the chassis where a threaded shaft was meant to hold the PCB down. The other holes were for winding the battery wires through the board for strain relief. The idea was to mount the battery to the PCB and just replace the whole PCB and battery assembly when recharging is required and to have the pump, tubing, and reservior mounted in the bottom of the chassis. The PCBA was intended to be the lid.
+
+## Assembly
+
+<a href="images/photos/"><img src="images/photos/"></a>
+
+<a href="images/photos/"><img src="images/photos/"></a>
+
+<a href="images/photos/"><img src="images/photos/"></a>
+
+
 
 ## Future
 
