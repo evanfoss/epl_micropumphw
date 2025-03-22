@@ -78,13 +78,18 @@ The added holes in the PCB are for a few reasons. The center hole is for a thumb
 
 ## Assembly
 
-<a href="images/photos/"><img src="images/photos/"></a>
-
-<a href="images/photos/"><img src="images/photos/"></a>
-
-<a href="images/photos/"><img src="images/photos/"></a>
+|<a href="images/photos/P1000088.JPG"><img src="images/photos/P1000088.JPG"></a>
+|:---------------
+|PCBA1: Top of the PCBA with the schematic for the micropumpdrv.sch sitting under it and a fine point sharpie for scale.
 
 
+|<a href="images/photos/P1000091.JPG"><img src="images/photos/P1000091.JPG"></a>
+|:---------------
+|PCBA2: Bottom of the PCBA with the same objects around it for scale.
+
+|<a href="images/photos/p1000564_15108454826_o.jpg"><img src="images/photos/p1000564_15108454826_o.jpg"></a>
+|:---------------
+|PCBA3: Assembled device viewed from the top
 
 ## Future
 
