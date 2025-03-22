@@ -93,7 +93,7 @@ The added holes in the PCB are for a few reasons. The center hole is for a thumb
 
 |<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
 |:---------------
-|ASSY1: The top and bottom of the device disassembled
+|ASSY1: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
 
 ## Future
 
