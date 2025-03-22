@@ -2,6 +2,8 @@
 
 This project was the hardware to be accompanied by the <a href="https://github.com/EPL-Engineering/epl_impup-fw">EPL Micropump Firmware</a> which is <a href="https://github.com/evanfoss/epl_micropumpfw">mirrored here</a>. The pair of projects is a wearable intracochlear drug delivery pump.
 
+WARNING: This device is not for use on humans.
+
 ## History
 1. The initial version was done by Ishmael S. Wagner it was built in a large inclosure from Bud Industries.
 2. The 2nd version was built based on the original by Evan Foss & Ishmael S. Wagner. It fit in an enclosure 3D printed and covered in kapton tape by Draper Lab.
