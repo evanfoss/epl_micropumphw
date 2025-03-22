@@ -89,15 +89,15 @@ The added holes in the PCB are for a few reasons. The center hole is for a thumb
 |:---------------
 |PCBA2: Bottom of the PCBA with the same objects around it for scale.
 
-|<a href="images/photos/p1000563_15108455186_o.jpg"><img src="images/photos/p1000563_15108455186_o.jpg"></a>
-|:---------------
-|PCBA3: Assembled device viewed from the top
-
 |<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
 |:---------------
 |ASSY1: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
 
 ## Future
 
+A more advanced pump capable of pumping in both directions instead of relying on back pressure to cause mixing would have been am improvement but Bartels didn't make a device like that at the time. 
 
+A tuned cavity should be added to the fluidic circuit to reduce acoustic noise from the pump. Draper did a design after ours that never quite worked but it attempted to impliment the whole design in layers of kapton that were laser cut and welded. This was folly for a few reasons but the tuned cavity should be revisited.
+
+At the time EPL didn't have the ability to do 3D CAD so if it was to happen again a redesign would not be using an outside company for the chassis.
 
