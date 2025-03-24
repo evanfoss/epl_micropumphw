@@ -102,6 +102,10 @@ Well there was the canceled version shown in PCBA2 meant to fit the bottom case 
 
 PCB2 is the last designed version. The PCB was fabricated and an enclosure made but work stopped there.
 
+|<a href="images/photos/p1000567_15131075102_o.jpg"><img src="images/photos/p1000567_15131075102_o.jpg"></a>
+|:---------------
+|ASSY3: Photo of the bottom of the case provided by the team over at Draper.
+
 The denser layout of PCB2 was made possible by the DIP sockets that are SMT mounting. This makes using both sides of the PCB much simpler but it means the PCB basically must be hand populated.
 
 The added holes in the PCB are for a few reasons. The center hole is for a thumb screw that was meant to go into the chassis where a threaded shaft was meant to hold the PCB down. The other holes were for winding the battery wires through the board for strain relief. The idea was to mount the battery to the PCB and just replace the whole PCB and battery assembly when recharging is required and to have the pump, tubing, and reservior mounted in the bottom of the chassis. The PCBA was intended to be the lid.
