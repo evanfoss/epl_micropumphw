@@ -80,13 +80,13 @@ The PCB as shown required a little rework later. More on that later.
 
 ## Assembly
 
-|<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
-|:---------------
-|ASSY2: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
-
 |<a href="images/photos/p1000563_15108455186_o.jpg"><img src="images/photos/p1000563_15108455186_o.jpg"></a>
 |:---------------
 |ASSY1: The top cover with PCBA installed in it.
+
+|<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
+|:---------------
+|ASSY2: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
 
 This is the first working version.
 
