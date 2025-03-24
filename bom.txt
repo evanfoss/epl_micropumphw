@@ -1,0 +1,26 @@
+
+
+Quantity	Part#			Manufacture		Catalog#			Distributor		RefDes.			Description
+1		114-87-314-41-117101	Preci-Dip		114-87-314-41-117101-ND		Digikey			n.a.			14 Pin DIP Socket SMT for MOD1
+1		114-87-308-41-117101	Preci-Dip		1212-1031-ND			Digikey			n.a.			8 Pin DIP Socket SMT for U1
+1		PIC12F675-I/P		Microchip Tech.		PIC12F675-I/P-ND		Digikey			U1			8-Bit 20MHz 1.75KB (1K x 14) FLASH 8-PDIP
+1		LTST-C155KGJRKT		Lite-On			160-1409-1-ND			Digikey			LED1			LED Red/Green Color, Red forward 2V typical, Green forward 2V typical
+1		B3SN-3112		Omron Electronics	Z5200-ND			Digikey			S2			SPST Pushbutton Switch with grounded exterior, Waterproof
+1		CS-4-12XA		Nidec Components	CS-4-12XA-ND			Digikey			S3			SPDT Rotary Switch, 100mA 16V Rated
+1		AYZ0102AGRLC		C & K			401-2012-1-ND			Digikey			S1			Slide Switch SPDT Surface Mount, Right Angle
+1		0039532045		Molex			WM2851-ND			Digikey			CONN1			4 Position FFC, FPC Connector Contacts, Vertical - 1 Sided 0.049" (1.25mm) Through Hole
+1		PJ-043-SMT-TR		CUI (now Same Sky)	CP-043PJCT-ND			Digikey			CONN3			Power Barrel Connector Jack 1.10mm ID (0.043"), 3.00mm OD (0.118") Surface Mount, Right Angle
+1		0022053021		Molex			900-0022053021-ND		Digikey			CONN2			Connector Header Through Hole, Right Angle 2 position 0.100" (2.54mm)
+1		S2B-PH-SM4-TB		JST			455-S2B-PH-SM4-TBCT-ND		Digikey			CONN4			Connector Header Surface Mount, Right Angle 2 position 0.079" (2.00mm)
+1		LMK316B7106KL-TD	Taiyo Yuden		587-2596-1-ND			Digikey			C4			10 µF ±10% 10V Ceramic Capacitor X7R 1206
+1		07CA0010FF2E		Bell Fuse (probably)	??				??			F1			0.100A PTC Fuse, no longer manufactured or distributed
+1		ECH-U1H682GX5		Panasonic		PCF1306CT-ND			Digikey			C1			6800 pF Film Capacitor 30V 50V Polyphenylene Sulfide (PPS), Metallized - Stacked 1206
+1		MP6-OEM			Bartels			-				-			MOD1			Bartels Pump Driver Module 14 Pin DIP Package
+1		602025			Tenergy			-				-			BAT1			3.7V 250mAH Lithium Ion Small Model Aircraft Battery
+2		C1206C104K5RACTU	KEMET			399-C1206C104K5RACTUCT-ND	Digikey			C2, C3			0.1 µF ±10% 50V Ceramic Capacitor X7R 1206 (generic part)
+2		RWB3K800AL		VPG Foil Resistors	804-RWB3K800ALCT-ND		Digikey			R2, R4, R5		3.8 kOhms ±0.05% 0.2W, 1/5W Chip Resistor 0805 Metal Foil
+1		RC0805FR-07100KL	YAGEO			311-100KCRCT-ND			Digikey			R6			100 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (generic part)
+1		RC0805FR-1320KL		YAGEO			13-RC0805FR-1320KLCT-ND		Digikey			R1			20 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805
+1		MP6			Bartels			-				-			-			Bartels Piezo Electric Pump
+
+
