@@ -68,6 +68,30 @@ The power supply is just a fuse, on/off switch, and a fuse. There was some conce
 
 The 1st version of the layout shown in PCB1 had a bug that shorted the +V rail to ground but this was fixed later. As it was the board still technically worked but with a very short battery life (1day vs +1week).
 
+|<a href="images/photos/P1000088.JPG"><img src="images/photos/P1000088.JPG"></a>
+|:---------------
+|PCBA1: Top of the PCBA with the schematic for the micropumpdrv.sch sitting under it and a fine point sharpie for scale.
+
+The PCB as shown required a little rework later. More on that later.
+
+## Assembly
+
+|<a href="p1000563_15108455186_o.jpg"><img src="p1000563_15108455186_o.jpg"></a>
+|:---------------
+|ASSY1: The top cover with PCBA installed in it.
+
+This is the first working version.
+
+|<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
+|:---------------
+|ASSY2: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
+
+I really didn't like the battery clip's protruding metal spring clip. That was meant to be changed in the next version.
+
+## Future
+
+Well there was the canceled version shown in PCBA2 meant to fit the bottom case in ASSY3.
+
 |<a href="images/micropumpdrv-art.png"><img src="images/micropumpdrv-art.png"></a>
 |:---------------
 |PCB2: Rendering of the 3rd version of the device.
@@ -77,22 +101,6 @@ PCB2 is the last designed version. The PCB was fabricated and an enclosure made 
 The denser layout of PCB2 was made possible by the DIP sockets that are SMT mounting. This makes using both sides of the PCB much simpler but it means the PCB basically must be hand populated.
 
 The added holes in the PCB are for a few reasons. The center hole is for a thumb screw that was meant to go into the chassis where a threaded shaft was meant to hold the PCB down. The other holes were for winding the battery wires through the board for strain relief. The idea was to mount the battery to the PCB and just replace the whole PCB and battery assembly when recharging is required and to have the pump, tubing, and reservior mounted in the bottom of the chassis. The PCBA was intended to be the lid.
-
-## Assembly
-
-|<a href="images/photos/P1000088.JPG"><img src="images/photos/P1000088.JPG"></a>
-|:---------------
-|PCBA1: Top of the PCBA with the schematic for the micropumpdrv.sch sitting under it and a fine point sharpie for scale.
-
-
-
-|<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
-|:---------------
-|ASSY1: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
-
-## Future
-
-Well there was the canceled version shown in PCBA2 meant to fit the bottom case in ASSY2.
 
 |<a href="images/photos/P1000091.JPG"><img src="images/photos/P1000091.JPG"></a>
 |:---------------
