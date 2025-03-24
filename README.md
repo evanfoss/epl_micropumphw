@@ -72,13 +72,17 @@ The 1st version of the layout shown in PCB1 had a bug that shorted the +V rail t
 |:---------------
 |PCBA1: Top of the PCBA with the schematic for the micropumpdrv.sch sitting under it and a fine point sharpie for scale.
 
-|<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
+|<a href="images/photos/P1000091.JPG"><img src="images/photos/P1000091.JPG"></a>
 |:---------------
-|ASSY2: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
+|PCBA2: Bottom of the PCBA with the same objects around it for scale
 
 The PCB as shown required a little rework later. More on that later.
 
 ## Assembly
+
+|<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
+|:---------------
+|ASSY2: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
 
 |<a href="images/photos/p1000563_15108455186_o.jpg"><img src="images/photos/p1000563_15108455186_o.jpg"></a>
 |:---------------
@@ -101,10 +105,6 @@ PCB2 is the last designed version. The PCB was fabricated and an enclosure made 
 The denser layout of PCB2 was made possible by the DIP sockets that are SMT mounting. This makes using both sides of the PCB much simpler but it means the PCB basically must be hand populated.
 
 The added holes in the PCB are for a few reasons. The center hole is for a thumb screw that was meant to go into the chassis where a threaded shaft was meant to hold the PCB down. The other holes were for winding the battery wires through the board for strain relief. The idea was to mount the battery to the PCB and just replace the whole PCB and battery assembly when recharging is required and to have the pump, tubing, and reservior mounted in the bottom of the chassis. The PCBA was intended to be the lid.
-
-|<a href="images/photos/P1000091.JPG"><img src="images/photos/P1000091.JPG"></a>
-|:---------------
-|PCBA2: Bottom of the PCBA with the same objects around it for scale.
 
 A more advanced pump capable of pumping in both directions instead of relying on back pressure to cause mixing would have been am improvement but Bartels didn't make a device like that at the time. 
 
