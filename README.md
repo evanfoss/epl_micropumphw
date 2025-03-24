@@ -76,7 +76,7 @@ The PCB as shown required a little rework later. More on that later.
 
 ## Assembly
 
-|<a href="p1000563_15108455186_o.jpg"><img src="p1000563_15108455186_o.jpg"></a>
+|<a href="images/photos/p1000563_15108455186_o.jpg"><img src="images/photos/p1000563_15108455186_o.jpg"></a>
 |:---------------
 |ASSY1: The top cover with PCBA installed in it.
 
