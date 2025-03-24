@@ -72,6 +72,10 @@ The 1st version of the layout shown in PCB1 had a bug that shorted the +V rail t
 |:---------------
 |PCBA1: Top of the PCBA with the schematic for the micropumpdrv.sch sitting under it and a fine point sharpie for scale.
 
+|<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
+|:---------------
+|ASSY2: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
+
 The PCB as shown required a little rework later. More on that later.
 
 ## Assembly
@@ -81,10 +85,6 @@ The PCB as shown required a little rework later. More on that later.
 |ASSY1: The top cover with PCBA installed in it.
 
 This is the first working version.
-
-|<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
-|:---------------
-|ASSY2: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
 
 I really didn't like the battery clip's protruding metal spring clip. That was meant to be changed in the next version.
 
