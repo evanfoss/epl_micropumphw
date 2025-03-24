@@ -58,7 +58,7 @@ The pump driver module configuration is inspired by page 10 of the datasheet. Sp
 |:---------------
 |Sch2: power.sch
 
-The power supply is just a fuse, on/off switch, and a fuse.
+The power supply is just a fuse, on/off switch, and a fuse. There was some concern about a short triggering thermal runaway of the battery.
 
 ## Printed Circuit Board Layout
 
@@ -85,15 +85,18 @@ The added holes in the PCB are for a few reasons. The center hole is for a thumb
 |PCBA1: Top of the PCBA with the schematic for the micropumpdrv.sch sitting under it and a fine point sharpie for scale.
 
 
-|<a href="images/photos/P1000091.JPG"><img src="images/photos/P1000091.JPG"></a>
-|:---------------
-|PCBA2: Bottom of the PCBA with the same objects around it for scale.
 
 |<a href="images/photos/p1000561_14944901697_o.jpg"><img src="images/photos/p1000561_14944901697_o.jpg"></a>
 |:---------------
 |ASSY1: The top and bottom of the device disassembled. The battery and pump in the bottom of the image.
 
 ## Future
+
+Well there was the canceled version shown in PCBA2 meant to fit the bottom case in ASSY2.
+
+|<a href="images/photos/P1000091.JPG"><img src="images/photos/P1000091.JPG"></a>
+|:---------------
+|PCBA2: Bottom of the PCBA with the same objects around it for scale.
 
 A more advanced pump capable of pumping in both directions instead of relying on back pressure to cause mixing would have been am improvement but Bartels didn't make a device like that at the time. 
 
