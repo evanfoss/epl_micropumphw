@@ -60,6 +60,12 @@ The pump driver module configuration is inspired by page 10 of the datasheet. Sp
 
 The power supply is just a fuse, on/off switch, and a fuse. There was some concern about a short triggering thermal runaway of the battery.
 
+|<a href="images/hidden-magic.png"><img src="images/hidden-magic.png"></a>
+|:---------------
+|Sch3: hidden.sch
+
+The boxes in Sch3 is there to make the PCB software add boxes to help me track some mechanical keepouts etc that otherwise don't map to devices with pins.
+
 ## Printed Circuit Board Layout
 
 |<a href="images/micropumpdrv-art.old.png"><img src="images/micropumpdrv-art.old.png"></a>
