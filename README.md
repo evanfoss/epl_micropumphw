@@ -60,6 +60,10 @@ The pump driver module configuration is inspired by page 10 of the datasheet. Sp
 
 The power supply is just a fuse, on/off switch, and a fuse. There was some concern about a short triggering thermal runaway of the battery.
 
+CONN2 and CONN4 were changed from the original single soldered wire in line connector for the last revision. That will be explained more later in Assembly.
+
+CONN3 was added so that the PCBA and battery could be recharged as a single assembly because most of the breakdowns of the 1st wearable version were from misshandling. They were changing the battery far more frequently than they needed too. 
+
 |<a href="images/hidden-magic.png"><img src="images/hidden-magic.png"></a>
 |:---------------
 |Sch3: hidden.sch
