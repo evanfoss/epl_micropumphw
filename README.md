@@ -106,7 +106,7 @@ Well there was the canceled version shown in PCBA2 meant to fit the bottom case 
 |:---------------
 |PCB2: Rendering of the 3rd version of the device.
 
-PCB2 is the last designed version. The PCB was fabricated and an enclosure made but work stopped there.
+PCB2 is the last designed version. The PCB was fabricated and an enclosure made but work stopped there. For those wondering about exposed connections unlike the prototype almost all sockets are surface mount. Exposed connections would probably have been covered with RTV-748 or a think cover would have been 3D printed too.
 
 |<a href="images/photos/p1000567_15131075102_o.jpg"><img src="images/photos/p1000567_15131075102_o.jpg"></a>
 |:---------------
